@@ -1,0 +1,30 @@
+.wlt-delete-post {
+	cursor: pointer;
+}
+.wlt-popup {
+	position: relative;
+}
+.wlt-popup label {
+	font-weight: 700;
+    vertical-align: middle;
+}
+
+.wlt-popup .input-text,
+.wlt-popup select {
+	position: absolute;
+    left: 40%;
+    width: 200px;
+}
+.wlt-popup textarea {
+	margin-left: 18%;
+    width: 200px;
+}
+#TB_ajaxContent .wlt-update-post {
+	margin-top: 25px;
+}
+#wlt-content {
+	vertical-align: top;
+}
+#TB_ajaxContent p {
+    padding: 26px 0px 16px 0px !important;
+}
